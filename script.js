@@ -2,13 +2,14 @@
 
 // TODO: Replace with your own Firebase config
 const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-    databaseURL: "https://YOUR_PROJECT_ID-default-rtdb.firebaseio.com",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_PROJECT_ID.appspot.com",
-    messagingSenderId: "YOUR_SENDER_ID",
-    appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyC0Q_CU8rNmJkMOG7a5bTyL-EeP3lTL4nE",
+  authDomain: "talksy-24776.firebaseapp.com",
+  databaseURL: "https://talksy-24776-default-rtdb.europe-west1.firebasedatabase.app",
+  projectId: "talksy-24776",
+  storageBucket: "talksy-24776.firebasestorage.app",
+  messagingSenderId: "1011824777157",
+  appId: "1:1011824777157:web:777d2545916b353d839dac",
+  measurementId: "G-9M8QRFSDT2"
 };
 
 firebase.initializeApp(firebaseConfig);
